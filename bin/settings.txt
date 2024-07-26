@@ -1,0 +1,9 @@
+bind_server: [
+    server_ip: 93.123.85.110
+    server_port: 6969
+]
+
+remote_server: [
+    server_ip: 93.123.85.123
+    server_port: 54329
+]
